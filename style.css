@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.loja{
+    background-color: #ff2dc0;
+}
+.Casa{
+    padding-left: 500px;
+    font-size: 80px;
+}
+.bem{
+    padding-left: 620px;
+    font-size: 50px;
+}
+.espero{
+    padding-left: 420px;
+    font-size: 50px;
+}
+.chocolate{
+    width: 300px;
+    height: 300px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.todos-bolo{
+    display: grid;
+    grid-template-columns:  30% 30% 30% 0% ;
+}
+.nome{
+    padding-left: 190px;
+}
+.rel1{
+    padding-left: 200px;
+}
+.rel2{
+    padding-left: 230px;
+}
